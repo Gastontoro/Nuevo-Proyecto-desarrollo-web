@@ -37,7 +37,7 @@ Sigue estos pasos para levantar el proyecto en tu máquina local.
     Abre tu terminal y clona este proyecto.
 
     ```bash
-    git clone [https://github.com/rodal95/proyecto-desarrollo-web-semiprescensial.git](https://github.com/rodal95/proyecto-desarrollo-web-semiprescensial.git)
+    git clone [https://github.com/rodal95/desarrollo-web-semip-isdm.git](https://github.com/rodal95/desarrollo-web-semip-isdm.git)
     cd tu-repositorio
     ```
 
